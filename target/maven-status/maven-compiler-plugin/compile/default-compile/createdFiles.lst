@@ -1,0 +1,6 @@
+com/vk/cassandra_java/client/CassandraConnector.class
+com/vk/cassandra_java/client/domain/Book.class
+com/vk/cassandra_java/client/repository/BookRepository.class
+com/vk/cassandra_java/client/repository/KeyspaceRepository.class
+com/vk/cassandra_java/App.class
+com/vk/cassandra_java/client/CassandraClient.class

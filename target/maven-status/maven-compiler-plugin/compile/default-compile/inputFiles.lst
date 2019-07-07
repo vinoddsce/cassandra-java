@@ -1,0 +1,6 @@
+/Users/vinodkumar/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/cassandra-java/src/main/java/com/vk/cassandra_java/client/domain/Book.java
+/Users/vinodkumar/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/cassandra-java/src/main/java/com/vk/cassandra_java/client/repository/KeyspaceRepository.java
+/Users/vinodkumar/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/cassandra-java/src/main/java/com/vk/cassandra_java/client/CassandraClient.java
+/Users/vinodkumar/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/cassandra-java/src/main/java/com/vk/cassandra_java/client/CassandraConnector.java
+/Users/vinodkumar/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/cassandra-java/src/main/java/com/vk/cassandra_java/App.java
+/Users/vinodkumar/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/cassandra-java/src/main/java/com/vk/cassandra_java/client/repository/BookRepository.java
